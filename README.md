@@ -11,9 +11,9 @@ At each step of the development, we make architectural decisions that affect the
 
 #### The problem definition
 
-Let’s say you've decided to take the downloaded from the server and display it in an `UIImageView`. Nothing wrong with this approach at all. Moreover, [Apple recommends](https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/LoadingImages/LoadingImages.html#//apple_ref/doc/uid/TP40010156-CH17-SW7) using `UIImage` and `UIImageView` to display the image in all common cases. The exception only if you have some specific image processing.
+Let’s say you've decided to take the downloaded image from the server and display it in an `UIImageView`. Nothing wrong with this approach at all. Moreover, [Apple recommends](https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/LoadingImages/LoadingImages.html#//apple_ref/doc/uid/TP40010156-CH17-SW7) using `UIImage` and `UIImageView` to display the image in all common cases. The exception only if you have some specific image processing.
 
-Let's return to gallery. Probably you’ve tested the application on different images sets using Simulator and latest iPhone version. And now ready for QA stage. Beta-testers and QA engineers picking up your application and then you see this strange-looking crash reports:
+Let's return to gallery. Probably you’ve tested the application on different image sets using Simulator and latest iPhone version. And now ready for QA stage. Beta-testers and QA engineers picking up your application and then you see this strange-looking crash reports:
 
 ![](https://github.com/SezorusArticles/Article_KZ004/blob/master/images/image7.png)
 
