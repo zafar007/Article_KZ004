@@ -207,7 +207,7 @@ For the better user experience and smooth scrolling, it makes sense to:
 
   
 
-The demo with collection view based gallery, downsampling images technique and prefetching Collection View Data available [here](https://github.com/SezorusArticles/Article_KZ004/edit/master/README.md).
+The demo with collection view based gallery, downsampling images technique and prefetching Collection View Data available [here](https://github.com/SezorusArticles/Article_KZ004).
 
   
 
