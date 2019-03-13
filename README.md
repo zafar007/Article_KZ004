@@ -212,3 +212,11 @@ The demo with collection view based gallery, downsampling images technique and p
   
 
 Thank you for your time.
+
+#### Author
+
+Kseniia Zozulia
+
+Email:  [kseniiazozulia@sezorus.com](mailto:kseniiazozulia@sezorus.com)
+
+LinkedIn:  [Kseniia Zozulia](https://www.linkedin.com/in/629bb187)
